@@ -31,7 +31,7 @@ Write a set of instructions. First, pseudocode. Then the actual code.
 
 3. Strategy: We'll want to keep track of the numbers (perhaps an object). We'll also need conditional logic for keeping track of score.
 
-- 6,6,4,4,3 ––> Returns 0. No triplets or
+- 6,6,4,4,3 ––> Returns 0. No triplets or singles.
 - 1,1,1,1,2 ––> Returns 1100. One triplet scored. Extra one scored as well.
 - 5,5,5,3,2 ––> Returns 500 points.
 - 1,2,3,4,5 ––> Returns 150 points. Two singles counted.
