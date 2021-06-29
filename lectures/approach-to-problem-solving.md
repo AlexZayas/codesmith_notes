@@ -59,8 +59,6 @@ const refactoredGreed = (dice) => {
     if (!singlesCache[die]) singlesCache[die] = 0;
     singlesCache[die]++;
 
-    console.log(singlesCache);
-
     if (singlesCache[die] === 3) {
       total += possiblePoints[`${die}${die}${die}`];
       delete singlesCache[die];
