@@ -1,6 +1,6 @@
 # Approach to problem solving
 
-<img src="./approach-to-problem-solving.png">
+<img src="./images/approach-to-problem-solving.png">
 
 ### Define your success conditions
 
@@ -27,7 +27,7 @@ Write a set of instructions. First, pseudocode. Then the actual code.
 1. Our output will be the best possible score. Input will be an array of five elements, with six possible values each.
 2. Here are some key phrases
 
-<img src="./greed-is-good-key-phrases.png">
+<img src="./images/greed-is-good-key-phrases.png">
 
 3. Strategy: We'll want to keep track of the numbers (perhaps an object). We'll also need conditional logic for keeping track of score.
 
@@ -36,7 +36,7 @@ Write a set of instructions. First, pseudocode. Then the actual code.
 - 5,5,5,3,2 ––> Returns 500 points.
 - 1,2,3,4,5 ––> Returns 150 points. Two singles counted.
 
-<img src="./greed-is-good-scores.png" />
+<img src="./images/greed-is-good-scores.png" />
 
 ## Final solution:
 
