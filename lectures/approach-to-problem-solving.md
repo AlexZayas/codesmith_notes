@@ -40,7 +40,7 @@ Write a set of instructions. First, pseudocode. Then the actual code.
 
 ## Final solution:
 
-```
+```js
 const refactoredGreed = (dice) => {
   const possiblePoints = {
     111: 1000,
